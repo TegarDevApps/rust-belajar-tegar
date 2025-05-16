@@ -8,7 +8,11 @@ mod hari2_control_flow {
     pub mod day2_control;
 }
 
+mod hari3_ownership {
+    pub mod day3_ownership;
+}
+
 fn main() {
     println!("Mulai Program Rust...");
-    hari1_pengantar_rust::day1_basic::run();
+    hari3_ownership::day3_ownership::run();
 }
