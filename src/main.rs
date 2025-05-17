@@ -12,7 +12,11 @@ mod hari3_ownership {
     pub mod day3_ownership;
 }
 
+mod hari4_struct_enum {
+    pub mod day4_struct_enum;
+}
+
 fn main() {
     println!("Mulai Program Rust...");
-    hari3_ownership::day3_ownership::run();
+    hari4_struct_enum::day4_struct_enum::run();
 }

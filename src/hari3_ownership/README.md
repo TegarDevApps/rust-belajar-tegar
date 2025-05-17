@@ -33,22 +33,4 @@ Dipanggil dari: [`src/main.rs`](./src/main.rs)
 
 ### Contoh Output Terminal:
 
-```bash
-Hari 3: Ownership, Borrowing & Lifetimes
-
-📦 Ownership:
-s2: Hello
-
-📌 Borrowing (immutable):
-Panjang string: 9
-s tetap bisa digunakan: Rustacean
-
-✏️ Borrowing (mutable):
-Setelah dimodifikasi: Halo, dunia!
-
-🧵 String vs &str:
-Literal (&str): Hello
-Dinamis (String): World
-
-⏳ Lifetime (konsep dasar):
-Nilai r: 42
+![Output Hari 3](./assets/day3.jpeg)
