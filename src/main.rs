@@ -16,7 +16,11 @@ mod hari4_struct_enum {
     pub mod day4_struct_enum;
 }
 
+mod hari5_collections_error {
+    pub mod day5_collections_error;
+}
+
 fn main() {
     println!("Mulai Program Rust...");
-    hari4_struct_enum::day4_struct_enum::run();
+    hari5_collections_error::day5_collections_error::run();
 }

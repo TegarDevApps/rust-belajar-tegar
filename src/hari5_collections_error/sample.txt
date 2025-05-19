@@ -1,0 +1,2 @@
+Ini adalah file contoh untuk Hari ke-5.
+Rust membuat manajemen error menjadi aman dan eksplisit.
